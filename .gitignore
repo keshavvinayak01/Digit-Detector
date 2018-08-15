@@ -1,0 +1,5 @@
+*.pyc
+*~
+face_data.py
+haarcascade_frontalface_alt.xml
+recognition.py
